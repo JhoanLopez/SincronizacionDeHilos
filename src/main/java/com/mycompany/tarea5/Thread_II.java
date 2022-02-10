@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  */
 
 public class Thread_II extends Thread{
-    
+     
     @Override
     public synchronized void run (){
         while (true) { 
